@@ -2,7 +2,6 @@
 
 
 
-## **Ion Channel Conductance Classification in Pain Neurons Using Action Potential Difference Learning**
 
 ### 📌 Overview
 
